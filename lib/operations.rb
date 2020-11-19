@@ -4,9 +4,9 @@ end
 
 
 def not_safe?(speed)
-	
+
 end
-	
+
 
     # returns true if speed is greater than 60 (FAILED - 4)
     # returns true if speed is less than 40 (FAILED - 5)
